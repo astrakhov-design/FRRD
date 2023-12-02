@@ -1,2 +1,1 @@
-# FRRD
-Functional Verification Referece Documentation
+# Функциональная верификация
